@@ -1,0 +1,26 @@
+.vscode
+.ipynb_checkpoints
+*.pyc
+*.egg-info
+*.DS_Store
+
+*.swp
+*.txt
+*.npy
+*.png
+*.mp4
+*.log
+*.prof
+*.tar.gz
+*.env
+
+# Ignore add data directory except for data/datasets/README.md
+data/**
+!data/data_readme.md
+# !data/datasets
+# data/datasets/**
+# !data/datasets/README.md
+
+
+!docs/**
+*.coverage

@@ -1,0 +1,19 @@
+# DUMMY ROVER PARAMETERS
+
+solar_panel:
+  # m^2
+  area: 1.5
+  # 0...1 (0%-100%)
+  efficiency: 0.3
+
+motion:
+  # m/s
+  velocity: 0.045
+  # W
+  power: 137
+
+# base load, W
+hotel_power: 95
+
+# # Whr
+# battery_capacity: 7000

@@ -1,0 +1,15 @@
+# WORLD PARAMETERS
+
+# Site name
+site_name: "JEZ5_sample"
+
+graph:
+  connectivity: 8 # connected grid pattern (4 or 8)
+  velocity_model:
+    name: 'MTTTVelocity'
+    params:
+      optimistic: False
+
+  power_model:
+    name: 'ConstantPower'
+    params: null

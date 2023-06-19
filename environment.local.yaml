@@ -1,0 +1,10 @@
+name: gplanetary-nav
+channels:
+    - conda-forge
+dependencies:
+    - ipykernel
+    - jupyterlab
+    - ipynbname
+    - jupyter_contrib_nbextensions
+    - nbstripout
+    - gdown

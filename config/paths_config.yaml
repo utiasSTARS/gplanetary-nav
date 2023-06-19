@@ -1,0 +1,20 @@
+# Absolute path to the logging directory
+# If null, will default to the 'logs' directory in the current repo 
+logs_dir: null # null or '/path/to/log_directory'
+
+# Absolute path to the params directory to save & load parameters from
+# If null, will default to the 'params' directory in the current repo 
+params_dir: null
+
+# Absolute path to the config directory of the current project
+# If null, will default to the 'config' directory in the current repo 
+config_dir: null
+
+# Absolute path to the tests directory of the current project
+# If null, will default to the 'tests' directory in the current repo 
+tests_dir: null
+
+# Absolute path to the data directory
+# If null, will default to the 'data' directory in the current repo 
+data_dir: null 
+
