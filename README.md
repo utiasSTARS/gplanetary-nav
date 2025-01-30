@@ -80,10 +80,16 @@ O. Lamarre, S. Malhotra, J. Kelly, Recovery Policies for Safe Exploration of Lun
 bibtex:
 
 ```
-@unpublished{lamarre2023recovery,
+@article{2023_Lamarre_Recovery,
   author = {Olivier Lamarre and Shantanu Malhotra and Jonathan Kelly},
-  title  = {Recovery Policies for Safe Exploration of Lunar Permanently Shadowed Regions by a Solar-Powered Rover},
-  note   = {Acta Astronautica (submitted)},
-  year   = {2023},
+  doi = {10.1016/j.actaastro.2023.09.028},
+  journal = {Acta Astronautica},
+  month = {December},
+  pages = {706--724},
+  site = {https://papers.starslab.ca/recovery-policies-psr-exploration/},
+  title = {Recovery Policies for Safe Exploration of Lunar Permanently Shadowed Regions by a Solar-Powered Rover},
+  url = {https://arxiv.org/abs/2307.16786},
+  volume = {213},
+  year = {2023}
 }
 ```
